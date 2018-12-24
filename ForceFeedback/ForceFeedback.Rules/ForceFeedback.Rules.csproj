@@ -268,7 +268,6 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <EmbeddedResource Include="Resources\.forcefeedbackprogramming" />
     <EmbeddedResource Include="Resources\Config.json" />
   </ItemGroup>
   <ItemGroup>
